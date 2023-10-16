@@ -18,3 +18,32 @@ The lessons I learned from this hackathon were very valuable. Since it was my fi
 
 ## What's next for Ane-Lexia
 Ane-Lexia will have a lot of things for it. We plan to have our own ML model to detect handwritten text, we also want to create iOS and Android apps to increase accessibility. We want to make our app easy to use and widely available to people who need it. I believe this will largely benefit the students in the education system who have dyslexia.
+
+## Ane-Lexia License (Limited Use)
+
+Ane-Lexia is an open-source project designed to assist students with dyslexia. This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+### Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+#### License Text
+
+**You are free to:**
+
+- Share — copy and redistribute the material in any medium or format for non-commercial purposes.
+- The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+**Under the following terms:**
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+This license allows others to use your work as long as it's for non-commercial purposes, they provide appropriate attribution, and they do not create derivative works. It's important to note that this type of license can limit the potential for broader adoption and contribution to your project.
+
+Please consult with a legal expert to ensure that the license you choose aligns with your intentions and is legally sound.
