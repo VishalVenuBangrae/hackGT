@@ -59,8 +59,8 @@ def open_dyslexic_convert(f_name):
 def main(path):
     try:
         load_dotenv()
-        endpoint = 'https://vishalvenubangrae.cognitiveservices.azure.com/'
-        key = '8a7f2b6d162e4a3b8cc3e6b7c085fe88'
+        endpoint = 'use azure endpoint'
+        key = 'use azure key'
         computervision_client = ComputerVisionClient(endpoint, CognitiveServicesCredentials(key))
         images_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), "images")
         read_image_path = os.path.join(images_folder, path)
